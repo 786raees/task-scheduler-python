@@ -1,4 +1,4 @@
-# Task Scheduler Python Project README
+# Task Scheduler Python
 
 This Markdown README provides an overview and usage guide for the **Task Scheduler** Python project. The project aims to facilitate the management of Windows scheduled tasks using the `win32com.client` library. With this project, you can easily create, manage, toggle, run, and delete scheduled tasks programmatically.
 
